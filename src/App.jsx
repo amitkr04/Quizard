@@ -14,7 +14,7 @@ import QuizPlay from "./pages/QuizPlay";
 import QuizResult from "./pages/QuizResult";
 import Leaderboard from "./pages/Leaderboard";
 import Review from "./pages/Review";
-import Cardtwo from "./pages/cardtwo";
+import Cardtwo from "./pages/Cardtwo";
 
 function App() {
   const location = useLocation();
